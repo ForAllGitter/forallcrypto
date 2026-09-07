@@ -1,0 +1,1 @@
+import{n as e,t}from"./inner-page-BhncmUHJ.js";import{h as n,r}from"./index-r__6BEg7.js";var i=n();function a(){let n=r();return(0,i.jsx)(t,{over:n.webshop.over,title:n.webshop.title,lede:n.webshop.lede,image:`/media/route-webshop.jpg`,children:(0,i.jsx)(e,{points:n.webshop.points})})}export{a as component};

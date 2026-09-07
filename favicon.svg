@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="ForAllCrypto">
+  <circle cx="16" cy="16" r="15" fill="#F3EFE6" stroke="#0D1B33" stroke-width="2"/>
+  <path fill="#0D1B33" d="M8 10h8v4h-5v2h4v3.5h-4V22H8z"/>
+  <path fill="#0D1B33" fill-rule="evenodd" d="M19.5 10h3.5L27 22h-3.5l-.7-2.2h-4.1L18 22h-3.5L19.5 10zm1.75 4.2-1.3 4h2.6l-1.3-4z"/>
+</svg>
