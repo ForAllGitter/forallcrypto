@@ -1,2 +1,2 @@
-/assets/*  /assets/:splat  200
-/*         /index.html     200
+# Pages only. Real files in /assets always win.
+/*    /index.html   200
