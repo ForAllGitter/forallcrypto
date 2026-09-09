@@ -1,0 +1,1 @@
+import{n as e,t}from"./inner-page-9lyKFrgM.js";import{h as n,r}from"./index-BmbKzqZY.js";var i=n();function a(){let n=r();return(0,i.jsx)(t,{over:n.maatwerk.over,title:n.maatwerk.title,lede:n.maatwerk.lede,image:`/media/interior.jpg`,children:(0,i.jsx)(e,{points:n.maatwerk.points})})}export{a as component};
