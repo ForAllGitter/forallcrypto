@@ -1,0 +1,1 @@
+import{t as e}from"./inner-page-BmUaebbY.js";import{h as t,r as n}from"./index-4ipa4KNB.js";var r=t();function i(){let t=n();return(0,r.jsx)(e,{over:t.privacy.over,title:t.privacy.title,lede:t.privacy.body,children:(0,r.jsx)(`p`,{className:`max-w-2xl text-muted`,children:t.privacy.body})})}export{i as component};

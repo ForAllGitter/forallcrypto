@@ -1,1 +1,0 @@
-import{n as e,t}from"./inner-page-9lyKFrgM.js";import{h as n,r}from"./index-BmbKzqZY.js";var i=n();function a(){let n=r();return(0,i.jsx)(t,{over:n.betaallink.over,title:n.betaallink.title,lede:n.betaallink.lede,image:`/media/route-link.jpg`,children:(0,i.jsx)(e,{points:n.betaallink.points})})}export{a as component};

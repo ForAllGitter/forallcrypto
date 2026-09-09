@@ -1,1 +1,0 @@
-import{n as e,t}from"./inner-page-9lyKFrgM.js";import{h as n,r}from"./index-BmbKzqZY.js";var i=n();function a(){let n=r();return(0,i.jsx)(t,{over:n.winkel.over,title:n.winkel.title,lede:n.winkel.lede,image:`/media/route-winkel.jpg`,children:(0,i.jsx)(e,{points:n.winkel.points})})}export{a as component};
